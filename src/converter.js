@@ -1,7 +1,6 @@
 import './style.css';
 import BTCConverter from './BTCConverter';
 import IDRConverter from './IDRConverter';
-import Dropdown from './dropdown';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 function converter() {
